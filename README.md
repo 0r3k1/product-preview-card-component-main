@@ -1,1 +1,1 @@
-cristobal-preview-card.netlify.app
+https://cristobal-preview-card.netlify.app
